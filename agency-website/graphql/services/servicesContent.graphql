@@ -1,0 +1,19 @@
+query{
+  
+  services{
+ 			data{
+      attributes{
+      	Name
+        service_content{
+          data{
+            attributes{
+              description
+            }
+          }
+        }
+        
+      }  
+      }
+  
+	}
+    

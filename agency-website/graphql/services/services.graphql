@@ -1,0 +1,10 @@
+query{
+      services{
+        data{
+          attributes{
+            UID
+            Name
+          }
+        }
+      }  
+    }
