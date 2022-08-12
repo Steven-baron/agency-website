@@ -1,0 +1,22 @@
+the access token 
+https://papercraftuniverse.myshopify.com/admin/settings/apps/development/4990631937/api_credentials
+
+
+--------------------------------------------------------------------
+artical shopify and next
+
+https://blog.logrocket.com/build-ecommerce-app-nextjs-shopify/
+
+
+
+you stoped at:
+
+    Create the ecommerce store’s homepage with Next.js
+
+
+
+
+
+
+
+

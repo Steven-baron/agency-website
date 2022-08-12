@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "service_contents",
+  "info": {
+    "singularName": "service-content",
+    "pluralName": "service-contents",
+    "displayName": "Service-content"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "description": {
+      "type": "text"
+    },
+    "services_description": {
+      "type": "uid"
+    },
+    "service": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::service.service",
+      "inversedBy": "service_content"
+    }
+  }
+}
